@@ -21,7 +21,7 @@ public class TreeApplication extends Application {
     BinaryTree tree2 = new BinaryTree();
     BinaryTree currentTree = new BinaryTree();
     DrawTree drawTree = new DrawTree();
-
+// hello world
     @Override
     public void start(Stage stage) {
         currentTree = tree;
